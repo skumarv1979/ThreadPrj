@@ -71,7 +71,7 @@ public class AirportFlightControlSystem {
 					
 				}
 			}
-
+			System.out.println("Fetch test!!!!!");
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
